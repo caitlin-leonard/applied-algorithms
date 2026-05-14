@@ -1,2 +1,2 @@
 # applied-algorithms
-A structured collection of algorithms and image processing implementations, documenting daily progress in problem solving and applied computational methods
+Implementations of algorithms and image processing methods in Python — covering sorting, searching, computational geometry, and OpenCV-based vision techniques
